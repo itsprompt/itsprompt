@@ -8,9 +8,9 @@ I'm Prompt from Thailand, and I make websites using HTML, CSS, and JavaScript. I
 
 ## Projects
 
-| 🎞️ [VideoShare - YouTube API](https://github.com/Prompt-bit/videoshare) | 🍉 [Food Meal Generator](https://prompt-bit.github.io/food-picker) | 🕸️ [Maze Shad ft. pim-iop](https://github.com/Prompt-bit/maze-shad) | 🖥️ [System Info Viewer](https://github.com/Prompt-bit/System-Info-Viewer) |
-|---|---|---|---|
-| YouTube API based video sharing app built with HTML, CSS, and JS. | Generates daily food meal ideas with React & TypeScript. | Official Maze Shad website built with HTML, CSS, and JS. | View your system info with a PowerShell dashboard. |
+| ReactJS |  HTML, CSS and JS | Powershell  |
+|---------|-------------------|-------------|
+| Food Picker App <br> https://prompt-bit.github.io/food-picker/| AR Mirror <br> https://github.com/Prompt-bit/ar-mirror | System Info Viewer <br>https://github.com/Prompt-bit/System-Info-Viewer
 
 ---
 
