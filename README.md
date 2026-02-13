@@ -1,4 +1,4 @@
-![JavaScript & TypeScript](https://yt3.googleusercontent.com/7nXINKEaZh9mvXE2uf_UsRVQIHf-_Ejw4Q0hnFxy2xVaV2huNnyg_8agw5MG_4_q8F--BCm1=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+<img src="https://yt3.googleusercontent.com/7nXINKEaZh9mvXE2uf_UsRVQIHf-_Ejw4Q0hnFxy2xVaV2huNnyg_8agw5MG_4_q8F--BCm1=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" width="100%">
 
 ## Prompt-bit
 
@@ -8,10 +8,10 @@ I'm Prompt from Thailand, and I make websites using HTML, CSS, and JavaScript. I
 
 ## Projects
 
-| ReactJS |  HTML, CSS and JS | Powershell  |
-|---------|-------------------|-------------|
-| Food Picker App <br> https://prompt-bit.github.io/food-picker/| AR Mirror <br> https://github.com/Prompt-bit/ar-mirror | System Info Viewer <br>https://github.com/Prompt-bit/System-Info-Viewer
-| Weather App <br> https://github.com/Prompt-bit/weather-app | Study Buds  <br> https://github.com/Prompt-bit/study-buds| 
+| ReactJS | HTML, CSS and JS | Powershell |
+|---------|------------------|------------|
+| Food Picker App <br> https://prompt-bit.github.io/food-picker/ | AR Mirror <br> https://github.com/Prompt-bit/ar-mirror | System Info Viewer <br> https://github.com/Prompt-bit/System-Info-Viewer |
+| Weather App <br> https://github.com/Prompt-bit/weather-app | Study Buds <br> https://github.com/Prompt-bit/study-buds | |
 
 ---
 
@@ -33,16 +33,31 @@ I'm Prompt from Thailand, and I make websites using HTML, CSS, and JavaScript. I
 - 👯 Looking to collaborate on web projects  
 - 🤔 Seeking help with Java
 
-  ## Videos on YouTube
-  https://www.youtube.com/watch?v=AywAs5krJAo
-  
-  https://www.youtube.com/watch?v=d8RHdtKgoRU
-  
-  https://www.youtube.com/watch?v=9WAmmJWzy_c
+## Organizations I'm In
+
+<table>
+<tr>
+<td align="center">
+<img src="https://avatars.githubusercontent.com/u/239335381?s=200&v=4" width="120" height="120"><br>
+
+**[Study Buds LLC](https://github.com/Study-Buds-LLC)**
+</td>
+</tr>
+</table>
 
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="36"/>](https://github.com/Prompt-bit)  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev.to" height="36"/>](https://dev.to/ppprompt)  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stack Overflow" height="36"/>](https://stackoverflow.com/users/28432190)  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="36"/>](https://www.youtube.com/channel/UCxlmYCY3eH-8FjLt0olr-Og)
+## Videos on YouTube
+
+https://www.youtube.com/watch?v=AywAs5krJAo
+
+https://www.youtube.com/watch?v=d8RHdtKgoRU
+
+https://www.youtube.com/watch?v=9WAmmJWzy_c
+
+
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="36"/>](https://github.com/Prompt-bit)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev.to" height="36"/>](https://dev.to/ppprompt)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stack Overflow" height="36"/>](https://stackoverflow.com/users/28432190)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="36"/>](https://www.youtube.com/channel/UCxlmYCY3eH-8FjLt0olr-Og)
 
 ---
-
-
