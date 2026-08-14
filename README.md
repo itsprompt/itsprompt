@@ -6,14 +6,6 @@ I'm Prompt from Thailand, and I make websites using HTML, CSS, and JavaScript. I
 
 ---
 
-## Projects
-
-| ReactJS | HTML, CSS and JS | Powershell |
-|---------|------------------|------------|
-| Food Picker App <br> https://prompt-bit.github.io/food-picker/ | AR Mirror <br> https://github.com/Prompt-bit/ar-mirror | System Info Viewer <br> https://github.com/Prompt-bit/System-Info-Viewer |
-| Weather App <br> https://github.com/Prompt-bit/weather-app | Study Buds <br> https://github.com/Prompt-bit/study-buds | |
-
----
 
 ## Websites
 
