@@ -43,6 +43,13 @@ I'm Prompt from Thailand, and I make websites using HTML, CSS, and JavaScript. I
 **[Study Buds LLC](https://github.com/Study-Buds-LLC)**
 </td>
 </tr>
+<tr>
+<td align="center">
+<img src="https://avatars.githubusercontent.com/u/280918614?s=200&v=4" width="120" height="120"><br>
+
+**[BitCode Inc.](https://github.com/BitCode-Inc)**
+</td>
+</tr>
 </table>
 
 
