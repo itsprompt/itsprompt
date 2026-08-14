@@ -52,9 +52,6 @@ https://www.youtube.com/watch?v=d8RHdtKgoRU
 https://www.youtube.com/watch?v=9WAmmJWzy_c
 
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="36"/>](https://github.com/Prompt-bit)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev.to" height="36"/>](https://dev.to/ppprompt)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stack Overflow" height="36"/>](https://stackoverflow.com/users/28432190)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="36"/>](https://www.youtube.com/channel/UCxlmYCY3eH-8FjLt0olr-Og)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="36"/>](https://github.com/Prompt-bit)  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev.to" height="36"/>](https://dev.to/ppprompt)  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stack Overflow" height="36"/>](https://stackoverflow.com/users/28432190)  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="36"/>](https://www.youtube.com/channel/UCxlmYCY3eH-8FjLt0olr-Og)
 
 ---
