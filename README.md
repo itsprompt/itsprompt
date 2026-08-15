@@ -7,12 +7,6 @@ I'm Prompt from Thailand, and I make websites using HTML, CSS, and JavaScript. I
 ---
 
 
-## Websites
-
-* [Food Meal Generator (Hosted on GitHub)](https://prompt-bit.github.io/food-picker/)
-
----
-
 ## Skills & Experience
 
 * ⚛️ React  
