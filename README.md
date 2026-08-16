@@ -1,6 +1,6 @@
 <img src="https://yt3.googleusercontent.com/7nXINKEaZh9mvXE2uf_UsRVQIHf-_Ejw4Q0hnFxy2xVaV2huNnyg_8agw5MG_4_q8F--BCm1=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" width="100%">
 
-## Prompt-bit
+## Prompt Phawach
 
 I'm Prompt from Thailand, and I make websites using HTML, CSS, and JavaScript. I sometimes use React with TypeScript or JavaScript, but the one I love most is TypeScript. I really enjoy writing code in my favorite editor, Visual Studio Code, available on Windows and Mac. I also enjoy Markdown — everything you need to know to get started writing documentation on GitHub.
 
