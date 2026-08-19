@@ -17,7 +17,7 @@ I'm Prompt from Thailand, and I make websites using HTML, CSS, and JavaScript. I
 
 ---
 
-- 🔭 Working on updating Marble
+- 🔭 Working on and updating Marble
 - 🌱 Learning React deeply  
 - 👯 Looking to collaborate on web projects  
 - 🤔 Seeking help with Java
