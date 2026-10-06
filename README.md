@@ -6,9 +6,7 @@ I'm Prompt from Thailand, and I make websites using HTML, CSS, and JavaScript. I
 
 ---
 
-## My Picks (I think you would like these)
-- [Marble (It's a todo list application)](https://github.com/itsprompt/Marble)
-- [Marble Slideck (It's a slide making application)](https://github.com/itsprompt/Marble-Slideck)
+
 
 ## Skills & Experience
 
