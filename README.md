@@ -2,7 +2,7 @@
 
 ## Prompt Phawach
 
-I'm Prompt from Thailand, and I make websites using HTML, CSS, and JavaScript. I sometimes use React with TypeScript or JavaScript, but the one I love most is TypeScript. I really enjoy writing code in my favorite editor, Visual Studio Code, available on Windows and Mac. I also enjoy Markdown — everything you need to know to get started writing documentation on GitHub.
+Hi! I'm Prompt, and I make websites using HTML, CSS, and JavaScript. I sometimes use React with TypeScript or JavaScript, but the one I love most is TypeScript. I really enjoy writing code in my favorite editor, Visual Studio Code, available on Windows and Mac. I also enjoy Markdown — everything you need to know to get started writing documentation on GitHub.
 
 ---
 
